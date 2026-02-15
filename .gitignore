@@ -56,6 +56,11 @@ next-env.d.ts
 build
 GoogleService-Info.plist
 
+# WXT
+output/
+.output/
+.wxt/
+
 repomix-output.xml
 .serena/cache
 plans/**/*
